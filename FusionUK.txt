@@ -1,0 +1,830 @@
+#EXTINF:-1 tvg-id="" tvg-name="---UK DOCUMENTARY---" tvg-logo="" group-title="UK DOCUMENTARY",---UK DOCUMENTARY---
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/393330.ts
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK: ANIMAL PLANET" tvg-logo="http://static.epgguide.net/icon/animalplanet.uk.png" group-title="UK DOCUMENTARY",UK: ANIMAL PLANET
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290372.ts
+#EXTINF:-1 tvg-id="animalplanetplus1.uk" tvg-name="UK: ANIMAL PLANET +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/animal-planet-plus-uk.png" group-title="UK DOCUMENTARY",UK: ANIMAL PLANET +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323866.ts
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK: CRIME & INVESTIGATION" tvg-logo="http://static.epgguide.net/icon/crimeandinvestigationnetwork.uk.png" group-title="UK DOCUMENTARY",UK: CRIME & INVESTIGATION
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290388.ts
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK: DISCOVERY CHANNEL" tvg-logo="http://static.epgguide.net/icon/discoverychannel.uk.png" group-title="UK DOCUMENTARY",UK: DISCOVERY CHANNEL
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290391.ts
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK: DISCOVERY HISTORY" tvg-logo="http://Offthewall.store:80/images/6fd533453eafacfc572cfac7f9519dcc.png" group-title="UK DOCUMENTARY",UK: DISCOVERY HISTORY
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290440.ts
+#EXTINF:-1 tvg-id="discoveryhistoryplus1.uk" tvg-name="UK: DISCOVERY HISTORY +1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-history-plus1-us-uk.png" group-title="UK DOCUMENTARY",UK: DISCOVERY HISTORY +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323904.ts
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK: DISCOVERY SCIENCE" tvg-logo="http://Offthewall.store:80/images/660bb3e7bb56bbeb8fa7e9f7b2c0cc40.png" group-title="UK DOCUMENTARY",UK: DISCOVERY SCIENCE
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290441.ts
+#EXTINF:-1 tvg-id="discoveryscienceplus1.uk" tvg-name="UK: DISCOVERY SCIENCE +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/discovery-science-plus-uk.png" group-title="UK DOCUMENTARY",UK: DISCOVERY SCIENCE +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323906.ts
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK: DISCOVERY TURBO" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/discovery-turbo-uk.png" group-title="UK DOCUMENTARY",UK: DISCOVERY TURBO
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323909.ts
+#EXTINF:-1 tvg-id="discoveryturboplus1.uk" tvg-name="UK: DISCOVERY TURBO +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/discovery-turbo-plus-uk.png" group-title="UK DOCUMENTARY",UK: DISCOVERY TURBO +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323908.ts
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="UK: DMAX" tvg-logo="http://toofasttoosecure.xyz/resize.php?max=42&url=https://apk.urlfile.xyz/tvchannels/united-kingdom/drama-uk.png" group-title="UK DOCUMENTARY",UK: DMAX
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/363520.ts
+#EXTINF:-1 tvg-id="discoverydmaxplus1.uk" tvg-name="UK: DMAX+1" tvg-logo="http://toofasttoosecure.xyz/resize.php?max=42&url=https://apk.urlfile.xyz/tvchannels/united-kingdom/drama-plus-uk.png" group-title="UK DOCUMENTARY",UK: DMAX+1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/363521.ts
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="UK: EDEN" tvg-logo="http://static.epgguide.net/icon/eden.uk.png" group-title="UK DOCUMENTARY",UK: EDEN
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290395.ts
+#EXTINF:-1 tvg-id="edenplus1.uk" tvg-name="UK: EDEN +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/eden-plus-uk.png" group-title="UK DOCUMENTARY",UK: EDEN +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323918.ts
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK: HISTORY CHANNEL" tvg-logo="http://Offthewall.store:80/images/8611e5abfec1697962460001d904d79c.png" group-title="UK DOCUMENTARY",UK: HISTORY CHANNEL
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290443.ts
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK: H2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/history-channel-2-uk.png" group-title="UK DOCUMENTARY",UK: H2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290399.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: LOVE NATURE" tvg-logo="https://i.ibb.co/8cvwc0h/love-nature.png" group-title="UK DOCUMENTARY",UK: LOVE NATURE
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290409.ts
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK: NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/320px-Nat_Geo_Wild_logo.png" group-title="UK DOCUMENTARY",UK: NAT GEO WILD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290414.ts
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: NATIONAL GEOGRAPHIC" tvg-logo="http://static.epgguide.net/icon/natgeo.uk.png" group-title="UK DOCUMENTARY",UK: NATIONAL GEOGRAPHIC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290415.ts
+#EXTINF:-1 tvg-id="smithsonian.uk" tvg-name="UK: SMITHSONIAN" tvg-logo="http://www.wbdg.org/images/logo_smithsonian_lg.png" group-title="UK DOCUMENTARY",UK: SMITHSONIAN
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290430.ts
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK: SKY DOCUMENTARIES" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt297d926a41cbad90/5edfe08b7968ce38f26fe407/Sky_Documentaries_PRIMARY_RGB.png" group-title="UK DOCUMENTARY",UK: SKY DOCUMENTARIES
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290424.ts
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK: SKY NATURE" tvg-logo="http://www.worldtvpc.com/blog/wp-content/uploads/2011/10/Sky_logo.png" group-title="UK DOCUMENTARY",UK: SKY NATURE
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290425.ts
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK: HISTORY 2" tvg-logo="http://Offthewall.store:80/images/34027ce57cd55c273e63b1dc06dd9fa7.png" group-title="UK DOCUMENTARY",UK: HISTORY 2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290442.ts
+#EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="UK: SKY HISTORY" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-documentaries-uk.png" group-title="UK DOCUMENTARY",UK: SKY HISTORY
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323991.ts
+#EXTINF:-1 tvg-id="" tvg-name="-------UK KIDS-------" tvg-logo="" group-title="UK KIDS",-------UK KIDS-------
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/393331.ts
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="UK: BABY TV" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/baby-tv-uk.png" group-title="UK KIDS",UK: BABY TV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/393325.ts
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK: BOOMERANG" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/boomerang-uk.png" group-title="UK KIDS",UK: BOOMERANG
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/393326.ts
+#EXTINF:-1 tvg-id="boomerangplus1.uk" tvg-name="UK: BOOMERANG +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/boomerang-plus-uk.png" group-title="UK KIDS",UK: BOOMERANG +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/393327.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK: CARTOON NETWORK" tvg-logo="https://logo.koditvepg.com/GB/cartoon.network.gb.png" group-title="UK KIDS",UK: CARTOON NETWORK
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64420.ts
+#EXTINF:-1 tvg-id="cartoonnetworkplus1.uk" tvg-name="UK: CARTOON NETWORK +1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-uk-plus1-us-uk.png" group-title="UK KIDS",UK: CARTOON NETWORK +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323878.ts
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK: CARTOONITO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/320px-Cartoonito_logo.svg.png" group-title="UK KIDS",UK: CARTOONITO
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64421.ts
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK: CBBC(BBC AFTER 8PM)" tvg-logo="http://static.epgguide.net/icon/cbbc.uk.png" group-title="UK KIDS",UK: CBBC(BBC AFTER 8PM)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290379.ts
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK: CBeebies" tvg-logo="https://logo.koditvepg.com/GB/cbeebies.gb.png" group-title="UK KIDS",UK: CBeebies
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64422.ts
+#EXTINF:-1 tvg-id="CITV.uk" tvg-name="UK: CITV" tvg-logo="http://beatsworking.fyi:80/images/d2343949f06d99405a7796a9418d6761.png" group-title="UK KIDS",UK: CITV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/393328.ts
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK: NICK JR" tvg-logo="https://i.ibb.co/58kzcPf/nick-jr.png" group-title="UK KIDS",UK: NICK JR
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/393309.ts
+#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="UK: NICK JR TOO" tvg-logo="http://img1.wikia.nocookie.net/__cb20141107110850/logopedia/images/e/ea/Nick_Jr_Too.png" group-title="UK KIDS",UK: NICK JR TOO
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64423.ts
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: NICKELODEON" tvg-logo="https://logo.koditvepg.com/GB/nickelodeon.gb.png" group-title="UK KIDS",UK: NICKELODEON
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64424.ts
+#EXTINF:-1 tvg-id="nickelodeonplus1.uk" tvg-name="UK: NICKELODEON +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/nickelodeon-plus-uk.png" group-title="UK KIDS",UK: NICKELODEON +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323956.ts
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK: POP" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/pop-uk.png" group-title="UK KIDS",UK: POP
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323970.ts
+#EXTINF:-1 tvg-id="popplus1.uk" tvg-name="UK: POP +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/pop-plus-uk.png" group-title="UK KIDS",UK: POP +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323967.ts
+#EXTINF:-1 tvg-id="popmax.uk" tvg-name="UK: POP MAX" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/pop-max-uk.png" group-title="UK KIDS",UK: POP MAX
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323969.ts
+#EXTINF:-1 tvg-id="popmaxplus1.uk" tvg-name="UK: POP MAX +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/pop-max-plus-uk.png" group-title="UK KIDS",UK: POP MAX +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323968.ts
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="UK: TINY POP" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/tiny-pop-uk.png" group-title="UK KIDS",UK: TINY POP
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324003.ts
+#EXTINF:-1 tvg-id="tinypopplus1.uk" tvg-name="UK: TINY POP +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/tiny-pop-plus-uk.png" group-title="UK KIDS",UK: TINY POP +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324002.ts
+#EXTINF:-1 tvg-id="" tvg-name="-------UK MOVIES-------" tvg-logo="" group-title="UK MOVIES",-------UK MOVIES-------
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/393332.ts
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK: FILM4" tvg-logo="http://Offthewall.store:80/images/21058c39086f6308b16c2a0d707abe0f.png" group-title="UK MOVIES",UK: FILM4
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290987.ts
+#EXTINF:-1 tvg-id="film4plus1.uk" tvg-name="UK: FILM4 +1" tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xFILM4P1.png" group-title="UK MOVIES",UK: FILM4 +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/366232.ts
+#EXTINF:-1 tvg-id="greataction.uk" tvg-name="UK: GREAT ACTION" tvg-logo="https://static.filmon.com/assets/channels/6212/extra_big_logo.png" group-title="UK MOVIES",UK: GREAT ACTION
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/366234.ts
+#EXTINF:-1 tvg-id="greatactionplus1.uk" tvg-name="UK: GREAT ACTION +1" tvg-logo="https://static.filmon.com/assets/channels/6212/extra_big_logo.png" group-title="UK MOVIES",UK: GREAT ACTION +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/366235.ts
+#EXTINF:-1 tvg-id="greatclassic.uk" tvg-name="UK: GREAT CLASSICS" tvg-logo="https://static.filmon.com/assets/channels/6218/extra_big_logo.png" group-title="UK MOVIES",UK: GREAT CLASSICS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/366236.ts
+#EXTINF:-1 tvg-id="greatclassicplus1.uk" tvg-name="UK: GREAT CLASSICS +1" tvg-logo="https://static.filmon.com/assets/channels/6218/extra_big_logo.png" group-title="UK MOVIES",UK: GREAT CLASSICS +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/366237.ts
+#EXTINF:-1 tvg-id="greatmovies.uk" tvg-name="UK: GREAT MOVIES" tvg-logo="http://Offthewall.store:80/images/cafa4d13b9aaff2a9e5e32b41e50f874.png" group-title="UK MOVIES",UK: GREAT MOVIES
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290985.ts
+#EXTINF:-1 tvg-id="greatmoviessplus1.uk" tvg-name="UK: GREAT MOVIES +1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Great%21_Movies_logo.webp/220px-Great%21_Movies_logo.webp.png" group-title="UK MOVIES",UK: GREAT MOVIES +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/366233.ts
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="UK: TCM" tvg-logo="http://beatsworking.fyi:80/images/f8797e31d58433599d7c3c33c1bf7c09.png" group-title="UK MOVIES",UK: TCM
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290986.ts
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK: SKY CINEMA GREATS" tvg-logo="http://Offthewall.store:80/images/5558fcb19149c1af029f98d340fbf539.png" group-title="UK MOVIES",UK: SKY CINEMA GREATS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290973.ts
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK: SKY CINEMA PREMIERE" tvg-logo="http://Offthewall.store:80/images/85a2d9abadca11e3d6f564da13db13b0.png" group-title="UK MOVIES",UK: SKY CINEMA PREMIERE
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290974.ts
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK: SKY CINEMA DRAMA/CHRISTMAS" tvg-logo="http://Offthewall.store:80/images/d35279b03321dccb9a692f0054077228.png" group-title="UK MOVIES",UK: SKY CINEMA DRAMA/CHRISTMAS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290975.ts
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK: SKY CINEMA THRILLER" tvg-logo="http://Offthewall.store:80/images/e9877521eefa7f94dd873a8b6c78c15d.png" group-title="UK MOVIES",UK: SKY CINEMA THRILLER
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290976.ts
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK: SKY CINEMA COMEDY" tvg-logo="http://Offthewall.store:80/images/5ca38c233d7804dc148a4f56165974bf.png" group-title="UK MOVIES",UK: SKY CINEMA COMEDY
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290977.ts
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK: SKY CINEMA SCI & HORROR" tvg-logo="http://Offthewall.store:80/images/5934ca3701fe868d3ebfeb907421959e.png" group-title="UK MOVIES",UK: SKY CINEMA SCI & HORROR
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290978.ts
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION" tvg-logo="http://Offthewall.store:80/images/cfbaba4d4307d573a296c68994a64e49.png" group-title="UK MOVIES",UK: SKY CINEMA ACTION
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290979.ts
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK: SKY CINEMA HITS" tvg-logo="http://Offthewall.store:80/images/11c3fd83c3a9caa8927d277476a28430.png" group-title="UK MOVIES",UK: SKY CINEMA HITS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290980.ts
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK: SKY CINEMA SELECT/5 STAR" tvg-logo="http://Offthewall.store:80/images/0422ff9cf00f18b6ce810842b89d9f42.png" group-title="UK MOVIES",UK: SKY CINEMA SELECT/5 STAR
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290981.ts
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK: SKY CINEMA ANIMATION" tvg-logo="http://Offthewall.store:80/images/221d7a64711376f92f5d94a3febd3dd3.png" group-title="UK MOVIES",UK: SKY CINEMA ANIMATION
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290982.ts
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK: SKY CINEMA FAMILY" tvg-logo="http://Offthewall.store:80/images/20ce1d94c49a62ae18d69210cc5c5baf.png" group-title="UK MOVIES",UK: SKY CINEMA FAMILY
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290983.ts
+#EXTINF:-1 tvg-id="" tvg-name="------UK SPORTS------" tvg-logo="" group-title="UK SPORTS",------UK SPORTS------
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/393333.ts
+#EXTINF:-1 tvg-id="nodetails" tvg-name="UK: BETFRED TV" tvg-logo="http://beatsworking.fyi:80/images/fe3c6441b99a740d7d7034ed22f2b847.png" group-title="UK SPORTS",UK: BETFRED TV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352898.ts
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="UK: BOXNATION" tvg-logo="http://beatsworking.fyi:80/images/e0bc8b8eebd40aa9fcc9f3e7ac00ca42.png" group-title="UK SPORTS",UK: BOXNATION
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64477.ts
+#EXTINF:-1 tvg-id="Celtic.spfl" tvg-name="UK: CELTIC TV" tvg-logo="" group-title="UK SPORTS",UK: CELTIC TV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64493.ts
+#EXTINF:-1 tvg-id="nodetails" tvg-name="UK: CORAL TV 1" tvg-logo="http://beatsworking.fyi:80/images/2b7374becd28290d6e86d4e6a0a39ac5.png" group-title="UK SPORTS",UK: CORAL TV 1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352897.ts
+#EXTINF:-1 tvg-id="nodetails" tvg-name="UK: CORAL TV 2" tvg-logo="http://beatsworking.fyi:80/images/2b7374becd28290d6e86d4e6a0a39ac5.png" group-title="UK SPORTS",UK: CORAL TV 2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352896.ts
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: EUROSPORT 1" tvg-logo="http://cms234.pandaiptv.net/logo/british_eurosport_2.png" group-title="UK SPORTS",UK: EUROSPORT 1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64496.ts
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: EUROSPORT 1 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/eurosport-1-uk.png" group-title="UK SPORTS",UK: EUROSPORT 1 SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324086.ts
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: EUROSPORT 2" tvg-logo="http://cms234.pandaiptv.net/logo/british_eurosport_2.png" group-title="UK SPORTS",UK: EUROSPORT 2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64498.ts
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: EUROSPORT 2 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/eurosport-2-uk.png" group-title="UK SPORTS",UK: EUROSPORT 2 SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324087.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: EUROSPORT 3" tvg-logo="data:image/png;base64,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" group-title="UK SPORTS",UK: EUROSPORT 3
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352899.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: EUROSPORTS 4" tvg-logo="data:image/png;base64,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" group-title="UK SPORTS",UK: EUROSPORTS 4
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352900.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: EUROSPORTS 5" tvg-logo="data:image/png;base64,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" group-title="UK SPORTS",UK: EUROSPORTS 5
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352901.ts
+#EXTINF:-1 tvg-id="hearttv.uk" tvg-name="UK: HEARTS TV (Match time Only)" tvg-logo="" group-title="UK SPORTS",UK: HEARTS TV (Match time Only)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64501.ts
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK: ITV1" tvg-logo="" group-title="UK SPORTS",UK: ITV1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470137.ts
+#EXTINF:-1 tvg-id="nodetails" tvg-name="UK: LADBROKES TV 1" tvg-logo="http://beatsworking.fyi:80/images/8c7a138c31a8e1ab5321d076f9fa8787.png" group-title="UK SPORTS",UK: LADBROKES TV 1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352895.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: LADBROKES TV 2" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ladbrokes-logo-png-transparent.png" group-title="UK SPORTS",UK: LADBROKES TV 2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352894.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: LADBROKES TV 3" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ladbrokes-logo-png-transparent.png" group-title="UK SPORTS",UK: LADBROKES TV 3
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352893.ts
+#EXTINF:-1 tvg-id="LaLigaTVInternational.uk" tvg-name="UK: LALIGA TV" tvg-logo="https://cdn.insidesport.co/wp-content/uploads/2021/01/20073618/thumbnail-6-1.jpg" group-title="UK SPORTS",UK: LALIGA TV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64503.ts
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV" tvg-logo="https://pbs.twimg.com/profile_images/1326786935545847817/OXRqvmxB.jpg" group-title="UK SPORTS",UK: LFC TV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64504.ts
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV" tvg-logo="https://logo.koditvepg.com/GB/mutv.gb.png" group-title="UK SPORTS",UK: MUTV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64506.ts
+#EXTINF:-1 tvg-id="nodetails" tvg-name="UK: PADDY POWER TV 1" tvg-logo="http://beatsworking.fyi:80/images/e7f7cf71839e02aa796503234a5d1804.jpg" group-title="UK SPORTS",UK: PADDY POWER TV 1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352892.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: PADDY POWER TV 2" tvg-logo="https://www.honestbettingreviews.com/wp-content/uploads/paddypower_logo.jpg" group-title="UK SPORTS",UK: PADDY POWER TV 2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352891.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: PDC DARTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/29/Professional_Darts_Corporation_logo.svg/1200px-Professional_Darts_Corporation_logo.svg.png" group-title="UK SPORTS",UK: PDC DARTS 1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/119478.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: PDC DARTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/2/29/Professional_Darts_Corporation_logo.svg/1200px-Professional_Darts_Corporation_logo.svg.png" group-title="UK SPORTS",UK: PDC DARTS 2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/119479.ts
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: RACING TV" tvg-logo="https://www.leicester-racecourse.co.uk/images/header_racingtv.png" group-title="UK SPORTS",UK: RACING TV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64515.ts
+#EXTINF:-1 tvg-id="Rangers.spfl" tvg-name="UK: RANGERS TV" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.rOw5W565jqOwDlQxLjHuLQAAAA&pid=Api&rs=1&c=1&qlt=95&w=209&h=63" group-title="UK SPORTS",UK: RANGERS TV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64518.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SIS ONE" tvg-logo="" group-title="UK SPORTS",UK: SIS ONE
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352890.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SIS RACING" tvg-logo="" group-title="UK SPORTS",UK: SIS RACING
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352889.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SIS TWO" tvg-logo="" group-title="UK SPORTS",UK: SIS TWO
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352888.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS ACTION/NFL" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-action-logo.png" group-title="UK SPORTS",UK: SKY SPORTS ACTION/NFL
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/312512.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: SKY SPORTS ACTION/NFL SD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-action-logo.png" group-title="UK SPORTS",UK: SKY SPORTS ACTION/NFL SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324102.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: SKY SPORTS ARENA" tvg-logo="http://Offthewall.store:80/images/4d55a3bafccc0cbd65310d7d0c8c5c1a.png" group-title="UK SPORTS",UK: SKY SPORTS ARENA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/281433.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: SKY SPORTS ARENA SD" tvg-logo="http://Offthewall.store:80/images/4d55a3bafccc0cbd65310d7d0c8c5c1a.png" group-title="UK SPORTS",UK: SKY SPORTS ARENA SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324095.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: SKY SPORTS CRICKET SD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_cricket.png" group-title="UK SPORTS",UK: SKY SPORTS CRICKET SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64521.ts
+#EXTINF:-1 tvg-id="SSPOF1" tvg-name="UK: SKY SPORTS F1" tvg-logo="http://beatsworking.fyi:80/images/8ad4a6d01d7032437ed5942c7e3ef2ff.png" group-title="UK SPORTS",UK: SKY SPORTS F1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569371.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 SD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_f1.png" group-title="UK SPORTS",UK: SKY SPORTS F1 SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324097.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL" tvg-logo="http://Offthewall.store:80/images/1f1a03f54904b47b7280489fc643178c.png" group-title="UK SPORTS",UK: SKY SPORTS FOOTBALL
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/281434.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL SD" tvg-logo="http://Offthewall.store:80/images/1f1a03f54904b47b7280489fc643178c.png" group-title="UK SPORTS",UK: SKY SPORTS FOOTBALL SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324098.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_golf.png" group-title="UK SPORTS",UK: SKY SPORTS GOLF
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64526.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="http://beatsworking.fyi:80/images/83497da896dfeaaed8624a1f328a305b.png" group-title="UK SPORTS",UK: SKY SPORTS MAIN EVENT
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470107.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT SD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_main_event.png" group-title="UK SPORTS",UK: SKY SPORTS MAIN EVENT SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324099.ts
+#EXTINF:-1 tvg-id="SSPOMXS" tvg-name="UK: SKY SPORTS MIX" tvg-logo="http://beatsworking.fyi:80/images/694fe563af855ffd5bd1ab17b3d9620c.png" group-title="UK SPORTS",UK: SKY SPORTS MIX
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569372.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: SKY SPORTS MIX SD" tvg-logo="http://cms234.pandaiptv.net/logo/sky-sports-mix-uk.png" group-title="UK SPORTS",UK: SKY SPORTS MIX SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324100.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS" tvg-logo="http://Offthewall.store:80/images/1f262f0319876c9cf1e459eb607e3340.png" group-title="UK SPORTS",UK: SKY SPORTS NEWS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290914.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS SD" tvg-logo="http://Offthewall.store:80/images/1f262f0319876c9cf1e459eb607e3340.png" group-title="UK SPORTS",UK: SKY SPORTS NEWS SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324101.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAGUE" tvg-logo="http://Offthewall.store:80/images/feaf9b673599d282872041d0265a27f0.png" group-title="UK SPORTS",UK: SKY SPORTS PREMIER LEAGUE
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/281440.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAGUE SD" tvg-logo="http://Offthewall.store:80/images/feaf9b673599d282872041d0265a27f0.png" group-title="UK SPORTS",UK: SKY SPORTS PREMIER LEAGUE SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324103.ts
+#EXTINF:-1 tvg-id="SSPORAC" tvg-name="UK: SKY SPORTS RACING" tvg-logo="http://beatsworking.fyi:80/images/f6642cfd7c9eec945a8e6da3a1e51286.png" group-title="UK SPORTS",UK: SKY SPORTS RACING
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569373.ts
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: SKY SPORTS RACING SD" tvg-logo="https://media.info/i/lf/0/1546303327/1161.png" group-title="UK SPORTS",UK: SKY SPORTS RACING SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324104.ts
+#EXTINF:-1 tvg-id="sportystuff.uk" tvg-name="UK: SPORTY STUFF" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sporty-stuff-tv-uk.png?raw=true" group-title="UK SPORTS",UK: SPORTY STUFF
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64538.ts
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 FHD" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 1 FHD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569374.ts
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 SD" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 1 SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569375.ts
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="UK: TNT Sport 2 FHD" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 2 FHD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569376.ts
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="UK: TNT Sport 2 SD" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 2 SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569377.ts
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="UK: TNT Sport 3 FHD" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 3 FHD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569378.ts
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="UK: TNT Sport 3 SD" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 3 SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569379.ts
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="UK: TNT Sport 4 FHD" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 4 FHD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569380.ts
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="UK: TNT Sport 4 SD" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 4 SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569381.ts
+#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="UK: TNT Sport 5" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 5
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569382.ts
+#EXTINF:-1 tvg-id="tntsports6.uk" tvg-name="UK: TNT Sport 6" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 6
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569383.ts
+#EXTINF:-1 tvg-id="tntsports7.uk" tvg-name="UK: TNT Sport 7" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 7
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569384.ts
+#EXTINF:-1 tvg-id="tntsports8.uk" tvg-name="UK: TNT Sport 8" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 8
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569385.ts
+#EXTINF:-1 tvg-id="tntsports9.uk" tvg-name="UK: TNT Sport 9" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 9
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569386.ts
+#EXTINF:-1 tvg-id="tntsports10.uk" tvg-name="UK: TNT Sport 10" tvg-logo="http://beatsworking.fyi:80/images/76a2a105a4ddad13da10dd56dd146bc3.png" group-title="UK SPORTS",UK: TNT Sport 10
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/569387.ts
+#EXTINF:-1 tvg-id="viaplay1.uk" tvg-name="UK: VIAPLAY SPORTS 1" tvg-logo="https://logo.koditvepg.com/GB/premier.sports.1.gb.png" group-title="UK SPORTS",UK: VIAPLAY SPORTS 1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64512.ts
+#EXTINF:-1 tvg-id="viaplay2.uk" tvg-name="UK: VIAPLAY SPORTS 2" tvg-logo="https://logo.koditvepg.com/GB/premier.sports.2.gb.png" group-title="UK SPORTS",UK: VIAPLAY SPORTS 2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64514.ts
+#EXTINF:-1 tvg-id="viaplayxtra.uk" tvg-name="UK: VIAPLAY XTRA" tvg-logo="https://logo.koditvepg.com/GB/freesports.gb.png" group-title="UK SPORTS",UK: VIAPLAY XTRA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/64499.ts
+#EXTINF:-1 tvg-id="nodetails" tvg-name="UK: WILLIAM HILL BTV" tvg-logo="http://beatsworking.fyi:80/images/5581ffdd4dc1166ceb007aedbef61aa1.jpg" group-title="UK SPORTS",UK: WILLIAM HILL BTV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352887.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: WILLIAM HILL TV1" tvg-logo="https://www.williamhillplc.com/media/10432/classic-stacked.jpg" group-title="UK SPORTS",UK: WILLIAM HILL TV1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352886.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: WILLIAM HILL TV2" tvg-logo="https://www.williamhillplc.com/media/10432/classic-stacked.jpg" group-title="UK SPORTS",UK: WILLIAM HILL TV2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352885.ts
+#EXTINF:-1 tvg-id="" tvg-name="--------SPFL--------" tvg-logo="" group-title="SPFL/NIFL",--------SPFL--------
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/403590.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aberdeen" tvg-logo="http://beatsworking.fyi:80/images/e7e7cc5463139144dc1aa217ab9ceda9.png" group-title="SPFL/NIFL",Aberdeen
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446301.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hibernian" tvg-logo="http://beatsworking.fyi:80/images/b6f143cd026ecff68ce4cfd964547be9.png" group-title="SPFL/NIFL",Hibernian
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446302.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motherwell" tvg-logo="http://beatsworking.fyi:80/images/858e5c2dab7e11f033c20e989da9abb1.png" group-title="SPFL/NIFL",Motherwell
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446303.ts
+#EXTINF:-1 tvg-id="" tvg-name="St Mirren" tvg-logo="http://beatsworking.fyi:80/images/21c5bcd45ec6ddae92474acd8a7cdcb9.png" group-title="SPFL/NIFL",St Mirren
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446304.ts
+#EXTINF:-1 tvg-id="" tvg-name="KILMARNOCK" tvg-logo="http://beatsworking.fyi:80/images/e9a4812ebfaa3638ba2589e3b0eca12d.png" group-title="SPFL/NIFL",KILMARNOCK
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446305.ts
+#EXTINF:-1 tvg-id="" tvg-name="St Johnstone" tvg-logo="http://beatsworking.fyi:80/images/d5439930f5423c3b11cf64872cf55ec5.png" group-title="SPFL/NIFL",St Johnstone
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446306.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hamilton FC" tvg-logo="http://beatsworking.fyi:80/images/860b93bd76af14745da84e819ae0f789.png" group-title="SPFL/NIFL",Hamilton FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446307.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ross County FC" tvg-logo="http://beatsworking.fyi:80/images/71c04c68600388bf9464a01a8bd91f0c.png" group-title="SPFL/NIFL",Ross County FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446308.ts
+#EXTINF:-1 tvg-id="" tvg-name="Livingston FC" tvg-logo="http://beatsworking.fyi:80/images/d41b7b32bf3c31164ddd50c87338f93f.png" group-title="SPFL/NIFL",Livingston FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446309.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dundee UTD" tvg-logo="http://beatsworking.fyi:80/images/2667610af8717d6f01deb1d868504fbc.png" group-title="SPFL/NIFL",Dundee UTD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446310.ts
+#EXTINF:-1 tvg-id="" tvg-name="RANGERS TV" tvg-logo="http://beatsworking.fyi:80/images/4f19681a2ffaf45a4b46893927e45e61.png" group-title="SPFL/NIFL",RANGERS TV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446311.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ayr Fc" tvg-logo="http://beatsworking.fyi:80/images/de8cbc8c96daa8d51ac61349db898d53.png" group-title="SPFL/NIFL",Ayr Fc
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446312.ts
+#EXTINF:-1 tvg-id="" tvg-name="Falkirk FC" tvg-logo="http://beatsworking.fyi:80/images/cbc993e85867f89299882486d8d4d969.png" group-title="SPFL/NIFL",Falkirk FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446313.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dundee FC" tvg-logo="http://beatsworking.fyi:80/images/640726346a47d7cd3a1124c4f1f28f08.png" group-title="SPFL/NIFL",Dundee FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446314.ts
+#EXTINF:-1 tvg-id="" tvg-name="-------EPL MATCHES-------" tvg-logo="" group-title="EPL",-------EPL MATCHES-------
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352747.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL01: Crystal Palace 20:00 Tottenham 27/10 (EPL)" tvg-logo="http://beatsworking.fyi:80/images/85d1e779397381885789704702a200dc.png" group-title="EPL",EPL01: Crystal Palace 20:00 Tottenham 27/10 (EPL)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/572013.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL02: Chelsea 12:30 Brentford 28/10 (EPL)" tvg-logo="http://beatsworking.fyi:80/images/85d1e779397381885789704702a200dc.png" group-title="EPL",EPL02: Chelsea 12:30 Brentford 28/10 (EPL)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/572012.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL03: Bournemouth 15:00 Burnley 28/10 (EPL)" tvg-logo="http://beatsworking.fyi:80/images/85d1e779397381885789704702a200dc.png" group-title="EPL",EPL03: Bournemouth 15:00 Burnley 28/10 (EPL)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/572011.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL04: Arsenal 15:00 Sheffield U 28/10 (EPL)" tvg-logo="http://beatsworking.fyi:80/images/85d1e779397381885789704702a200dc.png" group-title="EPL",EPL04: Arsenal 15:00 Sheffield U 28/10 (EPL)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/572010.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL05: Wolves 17:30 Newcastle U 28/20 (EPL)" tvg-logo="http://beatsworking.fyi:80/images/85d1e779397381885789704702a200dc.png" group-title="EPL",EPL05: Wolves 17:30 Newcastle U 28/20 (EPL)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/572015.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL06: West Ham 13:00 Everton 29/10 (EPL)" tvg-logo="http://beatsworking.fyi:80/images/85d1e779397381885789704702a200dc.png" group-title="EPL",EPL06: West Ham 13:00 Everton 29/10 (EPL)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/572016.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL07: Aston Villa 14:00 Luton 29/10 (EPL)" tvg-logo="http://beatsworking.fyi:80/images/85d1e779397381885789704702a200dc.png" group-title="EPL",EPL07: Aston Villa 14:00 Luton 29/10 (EPL)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/572017.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL08: Brighton 14:00 Fulham 29/10 (EPL)" tvg-logo="http://beatsworking.fyi:80/images/85d1e779397381885789704702a200dc.png" group-title="EPL",EPL08: Brighton 14:00 Fulham 29/10 (EPL)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/572020.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL:09 Liverpool 14:00 Notts Forest 29/10 (EPL)" tvg-logo="http://beatsworking.fyi:80/images/85d1e779397381885789704702a200dc.png" group-title="EPL",EPL:09 Liverpool 14:00 Notts Forest 29/10 (EPL)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/572018.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL:10 Manchester United 15:30 Manchester City 29/10 (EPL)" tvg-logo="http://beatsworking.fyi:80/images/85d1e779397381885789704702a200dc.png" group-title="EPL",EPL:10 Manchester United 15:30 Manchester City 29/10 (EPL)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/572019.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPL11: 4K EPL GAMES" tvg-logo="http://beatsworking.fyi:80/images/85d1e779397381885789704702a200dc.png" group-title="EPL",EPL11: 4K EPL GAMES
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/572014.ts
+#EXTINF:-1 tvg-id="" tvg-name="-------NIFL-------" tvg-logo="" group-title="SPFL/NIFL",-------NIFL-------
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/426915.ts
+#EXTINF:-1 tvg-id="" tvg-name="-------EFL/IFOLLOW-------" tvg-logo="" group-title="EFL/IFOLLOW",-------EFL/IFOLLOW-------
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/205177.ts
+#EXTINF:-1 tvg-id="" tvg-name="Birmingham FC" tvg-logo="http://beatsworking.fyi:80/images/97f757d48c210a93f7b226c78ad8367a.png" group-title="EFL/IFOLLOW",Birmingham FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446229.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blackburn Rovers FC" tvg-logo="http://beatsworking.fyi:80/images/2ab5f916d790a6bdae7d69106b74363c.png" group-title="EFL/IFOLLOW",Blackburn Rovers FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446230.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ipswich Town" tvg-logo="http://beatsworking.fyi:80/images/aa320a8b693a8a8751e6dcf77bd71bad.png" group-title="EFL/IFOLLOW",Ipswich Town
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446231.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bristol City FC" tvg-logo="http://beatsworking.fyi:80/images/4956b23f8c451949a8213522a7118d1d.png" group-title="EFL/IFOLLOW",Bristol City FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446232.ts
+#EXTINF:-1 tvg-id="" tvg-name="Leeds FC" tvg-logo="http://beatsworking.fyi:80/images/b1d7c9a6a75b8a87495581d92e6cdfa5.png" group-title="EFL/IFOLLOW",Leeds FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446233.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cardiff City FC" tvg-logo="http://beatsworking.fyi:80/images/4aacdb2cb8196ed2c4051a9d029ee4d2.png" group-title="EFL/IFOLLOW",Cardiff City FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Coventry City FC" tvg-logo="http://beatsworking.fyi:80/images/83a30f19d0360600ad4e729ea4b1af54.png" group-title="EFL/IFOLLOW",Coventry City FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446235.ts
+#EXTINF:-1 tvg-id="" tvg-name="Huddersfield Town FC" tvg-logo="http://beatsworking.fyi:80/images/5e9145e48133b1893f912051e23f72d9.png" group-title="EFL/IFOLLOW",Huddersfield Town FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446236.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hull City FC" tvg-logo="http://beatsworking.fyi:80/images/d0f6eb2af1960f8a00af256587cda7d6.png" group-title="EFL/IFOLLOW",Hull City FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446237.ts
+#EXTINF:-1 tvg-id="" tvg-name="Leicester FC" tvg-logo="http://beatsworking.fyi:80/images/099af6afed5da611bc259cf1526a61d0.png" group-title="EFL/IFOLLOW",Leicester FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446238.ts
+#EXTINF:-1 tvg-id="" tvg-name="Middlesbrough FC" tvg-logo="http://beatsworking.fyi:80/images/e65d06c8a5021f118d83943635c65924.png" group-title="EFL/IFOLLOW",Middlesbrough FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Millwall FC" tvg-logo="http://beatsworking.fyi:80/images/7fbe501d7369f878a2520a4a3b471e9d.png" group-title="EFL/IFOLLOW",Millwall FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Norwich City FC" tvg-logo="http://beatsworking.fyi:80/images/5ca61ae9ce85dd7312407eb3a6ab14da.png" group-title="EFL/IFOLLOW",Norwich City FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Preston North End FC" tvg-logo="http://beatsworking.fyi:80/images/ad2a9fd4f8848b3871a47999e7f4278a.png" group-title="EFL/IFOLLOW",Preston North End FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446242.ts
+#EXTINF:-1 tvg-id="" tvg-name="QPR FC" tvg-logo="http://beatsworking.fyi:80/images/0a85ec0132dc06a2e465488f9c67038b.png" group-title="EFL/IFOLLOW",QPR FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Plymouth FC" tvg-logo="http://beatsworking.fyi:80/images/5246c1895211c4078f33db5c80bec231.png" group-title="EFL/IFOLLOW",Plymouth FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rotherham United FC" tvg-logo="http://beatsworking.fyi:80/images/86c7804c44651a182f1b97decbe513b9.png" group-title="EFL/IFOLLOW",Rotherham United FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446245.ts
+#EXTINF:-1 tvg-id="" tvg-name="Southampton FC" tvg-logo="http://beatsworking.fyi:80/images/07ee646e756b8399709d8dee90b9b7c4.png" group-title="EFL/IFOLLOW",Southampton FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stoke City FC" tvg-logo="http://beatsworking.fyi:80/images/d93608f62ab9c6ac54aa927e2954c3e1.png" group-title="EFL/IFOLLOW",Stoke City FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sunderland AFC" tvg-logo="http://beatsworking.fyi:80/images/eaaba6f1a0ec4113dfe513836b5abd64.png" group-title="EFL/IFOLLOW",Sunderland AFC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446248.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swansea City FC" tvg-logo="http://beatsworking.fyi:80/images/8df82f43a32b3d309114629d2a5236f6.png" group-title="EFL/IFOLLOW",Swansea City FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446249.ts
+#EXTINF:-1 tvg-id="" tvg-name="Watford FC" tvg-logo="http://beatsworking.fyi:80/images/17b883ac2bfb1da919c6420b63807257.png" group-title="EFL/IFOLLOW",Watford FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446250.ts
+#EXTINF:-1 tvg-id="" tvg-name="West Bromwich Albion FC" tvg-logo="http://beatsworking.fyi:80/images/b5775f52a3aa087d51e8e01d1bc3f752.png" group-title="EFL/IFOLLOW",West Bromwich Albion FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sheffield Wednesday FC" tvg-logo="http://beatsworking.fyi:80/images/53018ea03791e3c7e64daf542e264a75.png" group-title="EFL/IFOLLOW",Sheffield Wednesday FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Northampton Town FC" tvg-logo="http://beatsworking.fyi:80/images/ca5a91b1f4c8af24c453f59af8691b0c.png" group-title="EFL/IFOLLOW",Northampton Town FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446253.ts
+#EXTINF:-1 tvg-id="" tvg-name="Barnsley FC" tvg-logo="http://beatsworking.fyi:80/images/75aabae9dec3574b0fbc4301b599fd88.png" group-title="EFL/IFOLLOW",Barnsley FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446254.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bolton Wanderers FC" tvg-logo="http://beatsworking.fyi:80/images/636bad991ef9d3e1ec10df0a7cbba771.png" group-title="EFL/IFOLLOW",Bolton Wanderers FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446255.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bristol Rovers FC" tvg-logo="http://beatsworking.fyi:80/images/13452c1f914c196781acbac070f5eb71.png" group-title="EFL/IFOLLOW",Bristol Rovers FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446256.ts
+#EXTINF:-1 tvg-id="" tvg-name="Burton Albion FC" tvg-logo="http://beatsworking.fyi:80/images/12b2f52afcca426d7f64e53f312b85d4.png" group-title="EFL/IFOLLOW",Burton Albion FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446257.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cambridge United FC" tvg-logo="http://beatsworking.fyi:80/images/ce472794c9579008bcf1e301a9966d3a.png" group-title="EFL/IFOLLOW",Cambridge United FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Charlton Athletic FC" tvg-logo="http://beatsworking.fyi:80/images/7293959fd5df15869fee84692c34840e.png" group-title="EFL/IFOLLOW",Charlton Athletic FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446259.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cheltenham Town FC" tvg-logo="http://beatsworking.fyi:80/images/56d338c58d04644e0b77e0877e20cf4e.png" group-title="EFL/IFOLLOW",Cheltenham Town FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446260.ts
+#EXTINF:-1 tvg-id="" tvg-name="Derby country FC" tvg-logo="http://beatsworking.fyi:80/images/dda7fc164f8a9962ca2c9fef4bba58ce.png" group-title="EFL/IFOLLOW",Derby country FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446261.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exeter City FC" tvg-logo="http://beatsworking.fyi:80/images/64ee6eb867d1c93c6233f2c6ef3e65cd.png" group-title="EFL/IFOLLOW",Exeter City FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446262.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fleetwood Town FC" tvg-logo="http://beatsworking.fyi:80/images/d2112f818565460581596b320b2b0837.png" group-title="EFL/IFOLLOW",Fleetwood Town FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446263.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blackpool FC" tvg-logo="http://beatsworking.fyi:80/images/453a9af3fae9f200d137957a8f261a04.png" group-title="EFL/IFOLLOW",Blackpool FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446264.ts
+#EXTINF:-1 tvg-id="" tvg-name="Carlisle United FC" tvg-logo="http://beatsworking.fyi:80/images/d96f2aee5cb17c1531235e9fd60abe50.png" group-title="EFL/IFOLLOW",Carlisle United FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446265.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lincoln City FC" tvg-logo="http://beatsworking.fyi:80/images/3427b1aa5d8927e33cfc6a778f213e79.png" group-title="EFL/IFOLLOW",Lincoln City FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446266.ts
+#EXTINF:-1 tvg-id="" tvg-name="Leyton Orient FC" tvg-logo="http://beatsworking.fyi:80/images/070bf7440b1ab54b76a4730714e1a102.png" group-title="EFL/IFOLLOW",Leyton Orient FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446267.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stevenage FC" tvg-logo="http://beatsworking.fyi:80/images/f94699721753a82b0a8e9e9a64b94343.png" group-title="EFL/IFOLLOW",Stevenage FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446268.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oxford United FC" tvg-logo="http://beatsworking.fyi:80/images/ef0b1667714a4e10c5ec08c180185572.png" group-title="EFL/IFOLLOW",Oxford United FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446269.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peterborough United FC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Peterborough_United.svg" group-title="EFL/IFOLLOW",Peterborough United FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Reading FC" tvg-logo="http://beatsworking.fyi:80/images/21d39b9528449b1fda3f2ed2a4e4a6d0.png" group-title="EFL/IFOLLOW",Reading FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446271.ts
+#EXTINF:-1 tvg-id="" tvg-name="Port Vale FC" tvg-logo="http://beatsworking.fyi:80/images/9a759e92ece6556d16263f9f9b6a2c42.png" group-title="EFL/IFOLLOW",Port Vale FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Portsmouth FC" tvg-logo="http://beatsworking.fyi:80/images/48b539fd83468a062ca8133192713a70.png" group-title="EFL/IFOLLOW",Portsmouth FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wigan Athletic FC" tvg-logo="http://beatsworking.fyi:80/images/e26265913199aa4bd19e448f2a4631d6.png" group-title="EFL/IFOLLOW",Wigan Athletic FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446274.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shrewsbury Town FC" tvg-logo="http://beatsworking.fyi:80/images/010f431057b4fd827cddf15572b79169.png" group-title="EFL/IFOLLOW",Shrewsbury Town FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446275.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wycombe Wanderers FC" tvg-logo="http://beatsworking.fyi:80/images/103fd9c07df413878b110381a53a2154.png" group-title="EFL/IFOLLOW",Wycombe Wanderers FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446276.ts
+#EXTINF:-1 tvg-id="" tvg-name="AFC Wimbledon FC" tvg-logo="http://beatsworking.fyi:80/images/3b75d10c69e7c0b84cf1832676f72d4b.png" group-title="EFL/IFOLLOW",AFC Wimbledon FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Barrow AFC" tvg-logo="http://beatsworking.fyi:80/images/cf49b5fe4b0931dcae6f6827d5e980dc.png" group-title="EFL/IFOLLOW",Barrow AFC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446278.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bradford City FC" tvg-logo="http://beatsworking.fyi:80/images/3a9271aad00c520914f1d5fd75c70fc0.png" group-title="EFL/IFOLLOW",Bradford City FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446279.ts
+#EXTINF:-1 tvg-id="" tvg-name="Forest Green Rovers FC" tvg-logo="http://beatsworking.fyi:80/images/b92735a85ea16843160f2a6ed5f15f76.png" group-title="EFL/IFOLLOW",Forest Green Rovers FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446280.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colchester United FC" tvg-logo="http://beatsworking.fyi:80/images/713d7c5acb2190498d80ba752a62461f.png" group-title="EFL/IFOLLOW",Colchester United FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446281.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crawley Town FC" tvg-logo="http://beatsworking.fyi:80/images/a3ac4805e34fc47fcee24e88b4c9066b.png" group-title="EFL/IFOLLOW",Crawley Town FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446282.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crewe Alexandra FC" tvg-logo="http://beatsworking.fyi:80/images/8813f271b5142626f486e66117c964e3.png" group-title="EFL/IFOLLOW",Crewe Alexandra FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446283.ts
+#EXTINF:-1 tvg-id="" tvg-name="Doncaster Rovers FC" tvg-logo="http://beatsworking.fyi:80/images/ce50b7dfdabe7ead6762e0f3668cc0ef.png" group-title="EFL/IFOLLOW",Doncaster Rovers FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446284.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gillingham FC" tvg-logo="http://beatsworking.fyi:80/images/7b276cb14a1bfa09ba1f547cc58e9d73.png" group-title="EFL/IFOLLOW",Gillingham FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446285.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grimsby Town" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/24/Grimsby_Town_FC_250.png?20110901191214" group-title="EFL/IFOLLOW",Grimsby Town
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446286.ts
+#EXTINF:-1 tvg-id="" tvg-name="Harrogate Town FC" tvg-logo="http://beatsworking.fyi:80/images/e43228d6a33ca8cb697374ec497d97ec.png" group-title="EFL/IFOLLOW",Harrogate Town FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446287.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wrexham FC" tvg-logo="http://beatsworking.fyi:80/images/6fc2f6d4e2eca9f838a9594b0cc4862e.png" group-title="EFL/IFOLLOW",Wrexham FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446288.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK Dons FC" tvg-logo="http://beatsworking.fyi:80/images/4b381440ebd0c4903676dd85647fdf63.png" group-title="EFL/IFOLLOW",MK Dons FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446289.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mansfield Town FC" tvg-logo="http://beatsworking.fyi:80/images/2e688f1fc8a22605bd8b55785f36bf3c.png" group-title="EFL/IFOLLOW",Mansfield Town FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Newport County FC" tvg-logo="http://beatsworking.fyi:80/images/0ceba76c48c8de618698405ac14e0d9d.png" group-title="EFL/IFOLLOW",Newport County FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446291.ts
+#EXTINF:-1 tvg-id="" tvg-name="Accrington Stanley FC" tvg-logo="http://beatsworking.fyi:80/images/33f7a1bac1cd49f09ce33f67f13d0c37.png" group-title="EFL/IFOLLOW",Accrington Stanley FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446292.ts
+#EXTINF:-1 tvg-id="" tvg-name="Notts County FC" tvg-logo="http://beatsworking.fyi:80/images/73e5f51235eee0e3ee3ca89fece63de8.png" group-title="EFL/IFOLLOW",Notts County FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446293.ts
+#EXTINF:-1 tvg-id="" tvg-name="Salford City FC" tvg-logo="http://beatsworking.fyi:80/images/d35bc1469b6f2d80074f91fcf47f1f52.png" group-title="EFL/IFOLLOW",Salford City FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446294.ts
+#EXTINF:-1 tvg-id="" tvg-name="Morecambe FC" tvg-logo="http://beatsworking.fyi:80/images/153ae5a88e7c58e3bbba7ec88d49606c.png" group-title="EFL/IFOLLOW",Morecambe FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446295.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stockport County" tvg-logo="http://beatsworking.fyi:80/images/a7897aef0069b2bf01f6e77706cba11e.png" group-title="EFL/IFOLLOW",Stockport County
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446296.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sutton United FC" tvg-logo="http://beatsworking.fyi:80/images/f0fbda689fccaec4f184ef1225f89148.png" group-title="EFL/IFOLLOW",Sutton United FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446297.ts
+#EXTINF:-1 tvg-id="" tvg-name="Swindon Town FC" tvg-logo="http://beatsworking.fyi:80/images/f9b04853cb0b8fbe4861c3f4a1437560.png" group-title="EFL/IFOLLOW",Swindon Town FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446298.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tranmere Rovers FC" tvg-logo="http://beatsworking.fyi:80/images/efb4e44074d2b47f63f4ca407ce80232.png" group-title="EFL/IFOLLOW",Tranmere Rovers FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446299.ts
+#EXTINF:-1 tvg-id="" tvg-name="Walsall FC" tvg-logo="http://beatsworking.fyi:80/images/3524c6e33bb154299b31ebfbfbbc80eb.png" group-title="EFL/IFOLLOW",Walsall FC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/446300.ts
+#EXTINF:-1 tvg-id="" tvg-name="------SUPERSPORTS------" tvg-logo="" group-title="SUPER SPORT",------SUPERSPORTS------
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/404201.ts
+#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="DSTV | SUPERSPORT ACTION - ZA" tvg-logo="http://beatsworking.fyi:80/images/fd6ced9837c0879047cde8551e1336f9.png" group-title="SUPER SPORT",DSTV | SUPERSPORT ACTION - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470117.ts
+#EXTINF:-1 tvg-id="SuperSportBlitz.za" tvg-name="DSTV | SUPERSPORT BLITZ - ZA" tvg-logo="http://beatsworking.fyi:80/images/9296ee8bb2addf4061e105d705ed420f.png" group-title="SUPER SPORT",DSTV | SUPERSPORT BLITZ - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470118.ts
+#EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="DSTV | SUPERSPORT CRICKET - ZA" tvg-logo="http://beatsworking.fyi:80/images/ac992ff2897a551cb3d0d346042f4fad.png" group-title="SUPER SPORT",DSTV | SUPERSPORT CRICKET - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470119.ts
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="DSTV | SUPERSPORT FOOTBALL - ZA" tvg-logo="http://beatsworking.fyi:80/images/1994f670a03973766204e69fb4d8e6ea.png" group-title="SUPER SPORT",DSTV | SUPERSPORT FOOTBALL - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470120.ts
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="DSTV | SUPERSPORT GOLF - ZA" tvg-logo="http://beatsworking.fyi:80/images/0d5a39008cb4dd4b9d0a84b87d5c57d0.png" group-title="SUPER SPORT",DSTV | SUPERSPORT GOLF - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470121.ts
+#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="DSTV | SUPERSPORT GRANDSTAND - ZA" tvg-logo="http://beatsworking.fyi:80/images/b6abdd6cc9f5a322f77f7b526c25ca30.png" group-title="SUPER SPORT",DSTV | SUPERSPORT GRANDSTAND - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470122.ts
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="DSTV | SUPERSPORT LALIGA - ZA" tvg-logo="http://beatsworking.fyi:80/images/d0bb2115663dfc5f27f234243d645459.png" group-title="SUPER SPORT",DSTV | SUPERSPORT LALIGA - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470123.ts
+#EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="DSTV | SUPERSPORT MAXIMO 1 - ZA" tvg-logo="http://beatsworking.fyi:80/images/0bb840145b7b7e6f26e55b3c1e29fd7e.png" group-title="SUPER SPORT",DSTV | SUPERSPORT MAXIMO 1 - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470124.ts
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="DSTV | SUPERSPORT MOTORSPORT - ZA" tvg-logo="http://beatsworking.fyi:80/images/3607cd7cb6a21da4976ec410da8b9f11.png" group-title="SUPER SPORT",DSTV | SUPERSPORT MOTORSPORT - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470125.ts
+#EXTINF:-1 tvg-id="SupersportPlay.za" tvg-name="DSTV | SUPERSPORT PLAY - ZA" tvg-logo="http://beatsworking.fyi:80/images/2df195682b00f5e4b4f903523a583d9b.png" group-title="SUPER SPORT",DSTV | SUPERSPORT PLAY - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470126.ts
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="DSTV | SUPERSPORT PREMIER LEAGUE - ZA" tvg-logo="http://beatsworking.fyi:80/images/b82999dad0777b582076baf137b221bd.png" group-title="SUPER SPORT",DSTV | SUPERSPORT PREMIER LEAGUE - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470127.ts
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="DSTV | SUPERSPORT PSL - ZA" tvg-logo="http://beatsworking.fyi:80/images/a6f663c8b40ee2fbd8ed727938e49da7.png" group-title="SUPER SPORT",DSTV | SUPERSPORT PSL - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470128.ts
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="DSTV | SUPERSPORT RUGBY - ZA" tvg-logo="http://beatsworking.fyi:80/images/9d02dfe4fd1c45741ea2ae76924a350c.png" group-title="SUPER SPORT",DSTV | SUPERSPORT RUGBY - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470129.ts
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="DSTV | SUPERSPORT TENNIS - ZA" tvg-logo="http://beatsworking.fyi:80/images/a531ea97dcfc9a104ece40db63bd2937.png" group-title="SUPER SPORT",DSTV | SUPERSPORT TENNIS - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470130.ts
+#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="DSTV | SUPERSPORT VARIETY 1 - ZA" tvg-logo="http://beatsworking.fyi:80/images/34b6145f8f01913cffa05eb975685415.png" group-title="SUPER SPORT",DSTV | SUPERSPORT VARIETY 1 - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470131.ts
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="DSTV | SUPERSPORT VARIETY 2 - ZA" tvg-logo="http://beatsworking.fyi:80/images/9718cf0ad51ffcd0202dd03a212ab05c.png" group-title="SUPER SPORT",DSTV | SUPERSPORT VARIETY 2 - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470132.ts
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="DSTV | SUPERSPORT VARIETY 3 - ZA" tvg-logo="http://beatsworking.fyi:80/images/6d5c4811df3d332fc90cd82cb3f0348c.png" group-title="SUPER SPORT",DSTV | SUPERSPORT VARIETY 3 - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470133.ts
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="DSTV | SUPERSPORT VARIETY 4 - ZA" tvg-logo="http://beatsworking.fyi:80/images/744db78eebed4be6dbe1e857cf1663bf.png" group-title="SUPER SPORT",DSTV | SUPERSPORT VARIETY 4 - ZA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470134.ts
+#EXTINF:-1 tvg-id="" tvg-name="Supersport 4K" tvg-logo="http://beatsworking.fyi:80/images/2cebf05c8354c29c0b1d724728bd798f.png" group-title="SUPER SPORT",Supersport 4K
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/470135.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 1" tvg-logo="https://iptv4free.net/assets/images/channel/channel_featured_1565972989.png" group-title="WORLD SPORTS",BEIN SPORTS ENGLISH 1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352802.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png" group-title="WORLD SPORTS",BEIN SPORTS ENGLISH 2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352803.ts
+#EXTINF:-1 tvg-id="" tvg-name="eGG Network" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="WORLD SPORTS",eGG Network
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352854.ts
+#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="Now HK Premier Sports 1" tvg-logo="" group-title="WORLD SPORTS",Now HK Premier Sports 1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352778.ts
+#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="Now HK Premier Sports 2" tvg-logo="" group-title="WORLD SPORTS",Now HK Premier Sports 2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352779.ts
+#EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="Now HK Premier Sports 3" tvg-logo="" group-title="WORLD SPORTS",Now HK Premier Sports 3
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352780.ts
+#EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="Now HK Premier Sports 4" tvg-logo="" group-title="WORLD SPORTS",Now HK Premier Sports 4
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352781.ts
+#EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="Now HK Premier Sports 5" tvg-logo="" group-title="WORLD SPORTS",Now HK Premier Sports 5
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352782.ts
+#EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="Now HK Premier Sports 6" tvg-logo="" group-title="WORLD SPORTS",Now HK Premier Sports 6
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 7" tvg-logo="" group-title="WORLD SPORTS",Now HK Premier Sports 7
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352784.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 8" tvg-logo="" group-title="WORLD SPORTS",Now HK Premier Sports 8
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352785.ts
+#EXTINF:-1 tvg-id="OptusSport1.au" tvg-name="OPTUS 1 HD" tvg-logo="" group-title="WORLD SPORTS",OPTUS 1 HD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352756.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS 10 HD" tvg-logo="" group-title="WORLD SPORTS",OPTUS 10 HD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352765.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS 11 HD" tvg-logo="" group-title="WORLD SPORTS",OPTUS 11 HD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352766.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS 12 HD" tvg-logo="" group-title="WORLD SPORTS",OPTUS 12 HD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352767.ts
+#EXTINF:-1 tvg-id="OptusSport2.au" tvg-name="OPTUS 2 HD" tvg-logo="" group-title="WORLD SPORTS",OPTUS 2 HD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352757.ts
+#EXTINF:-1 tvg-id="OptusSport3.au" tvg-name="OPTUS 3 HD" tvg-logo="" group-title="WORLD SPORTS",OPTUS 3 HD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352758.ts
+#EXTINF:-1 tvg-id="OptusSport4.au" tvg-name="OPTUS 4 HD" tvg-logo="" group-title="WORLD SPORTS",OPTUS 4 HD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352759.ts
+#EXTINF:-1 tvg-id="OptusSport5.au" tvg-name="OPTUS 5 HD" tvg-logo="" group-title="WORLD SPORTS",OPTUS 5 HD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352760.ts
+#EXTINF:-1 tvg-id="OptusSport6.au" tvg-name="OPTUS 6 HD" tvg-logo="" group-title="WORLD SPORTS",OPTUS 6 HD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352761.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS 7 HD" tvg-logo="" group-title="WORLD SPORTS",OPTUS 7 HD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352762.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS 8 HD" tvg-logo="" group-title="WORLD SPORTS",OPTUS 8 HD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352763.ts
+#EXTINF:-1 tvg-id="" tvg-name="OPTUS 9 HD" tvg-logo="" group-title="WORLD SPORTS",OPTUS 9 HD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352764.ts
+#EXTINF:-1 tvg-id="Racingcom.au.au" tvg-name="RACING.COM" tvg-logo="data:image/png;base64,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" group-title="WORLD SPORTS",RACING.COM
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352809.ts
+#EXTINF:-1 tvg-id="SPARK1.nz" tvg-name="Spark Sports 1 (RAW)" tvg-logo="" group-title="WORLD SPORTS",Spark Sports 1 (RAW)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352768.ts
+#EXTINF:-1 tvg-id="SPARK10.nz" tvg-name="Spark Sports 10 (RAW)" tvg-logo="" group-title="WORLD SPORTS",Spark Sports 10 (RAW)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352777.ts
+#EXTINF:-1 tvg-id="SPARK2.nz" tvg-name="Spark Sports 2 (RAW)" tvg-logo="" group-title="WORLD SPORTS",Spark Sports 2 (RAW)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352769.ts
+#EXTINF:-1 tvg-id="SPARK3.nz" tvg-name="Spark Sports 3 (RAW)" tvg-logo="" group-title="WORLD SPORTS",Spark Sports 3 (RAW)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352770.ts
+#EXTINF:-1 tvg-id="SPARK4.nz" tvg-name="Spark Sports 4 (RAW)" tvg-logo="" group-title="WORLD SPORTS",Spark Sports 4 (RAW)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352771.ts
+#EXTINF:-1 tvg-id="SPARK5.nz" tvg-name="Spark Sports 5 (RAW)" tvg-logo="" group-title="WORLD SPORTS",Spark Sports 5 (RAW)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352772.ts
+#EXTINF:-1 tvg-id="SPARK6.nz" tvg-name="Spark Sports 6 (RAW)" tvg-logo="" group-title="WORLD SPORTS",Spark Sports 6 (RAW)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352773.ts
+#EXTINF:-1 tvg-id="SPARK7.nz" tvg-name="Spark Sports 7 (RAW)" tvg-logo="" group-title="WORLD SPORTS",Spark Sports 7 (RAW)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352774.ts
+#EXTINF:-1 tvg-id="SPARK8.nz" tvg-name="Spark Sports 8 (RAW)" tvg-logo="" group-title="WORLD SPORTS",Spark Sports 8 (RAW)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352775.ts
+#EXTINF:-1 tvg-id="SPARK9.nz" tvg-name="Spark Sports 9 (RAW)" tvg-logo="" group-title="WORLD SPORTS",Spark Sports 9 (RAW)
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352776.ts
+#EXTINF:-1 tvg-id="1.stan" tvg-name="Stan AU Event 1" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352810.ts
+#EXTINF:-1 tvg-id="10.stan" tvg-name="Stan AU Event 10" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 10
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352819.ts
+#EXTINF:-1 tvg-id="11.stan" tvg-name="Stan AU Event 11" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 11
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352820.ts
+#EXTINF:-1 tvg-id="12.stan" tvg-name="Stan AU Event 12" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 12
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352821.ts
+#EXTINF:-1 tvg-id="13.stan" tvg-name="Stan AU Event 13" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 13
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352822.ts
+#EXTINF:-1 tvg-id="14.stan" tvg-name="Stan AU Event 14" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 14
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352823.ts
+#EXTINF:-1 tvg-id="15.stan" tvg-name="Stan AU Event 15" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 15
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352824.ts
+#EXTINF:-1 tvg-id="16.stan" tvg-name="Stan AU Event 16" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 16
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352825.ts
+#EXTINF:-1 tvg-id="17.stan" tvg-name="Stan AU Event 17" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 17
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352826.ts
+#EXTINF:-1 tvg-id="18.stan" tvg-name="Stan AU Event 18" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 18
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352827.ts
+#EXTINF:-1 tvg-id="19.stan" tvg-name="Stan AU Event 19" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 19
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352828.ts
+#EXTINF:-1 tvg-id="2.stan" tvg-name="Stan AU Event 2" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352811.ts
+#EXTINF:-1 tvg-id="20.stan" tvg-name="Stan AU Event 20" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 20
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352829.ts
+#EXTINF:-1 tvg-id="3.stan" tvg-name="Stan AU Event 3" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 3
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352812.ts
+#EXTINF:-1 tvg-id="4.stan" tvg-name="Stan AU Event 4" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 4
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352813.ts
+#EXTINF:-1 tvg-id="5.stan" tvg-name="Stan AU Event 5" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 5
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352814.ts
+#EXTINF:-1 tvg-id="6.stan" tvg-name="Stan AU Event 6" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 6
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352815.ts
+#EXTINF:-1 tvg-id="7.stan" tvg-name="Stan AU Event 7" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 7
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352816.ts
+#EXTINF:-1 tvg-id="8.stan" tvg-name="Stan AU Event 8" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 8
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352817.ts
+#EXTINF:-1 tvg-id="9.stan" tvg-name="Stan AU Event 9" tvg-logo="https://smb.optus.com.au/opfiles/Shop/Consumer/Entertainment/Streaming%20Apps/stan-logo.png" group-title="WORLD SPORTS",Stan AU Event 9
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/352818.ts
+#EXTINF:-1 tvg-id="" tvg-name="---UK ENTERTAINMENT---" tvg-logo="" group-title="UK ENTERTAINMENT",---UK ENTERTAINMENT---
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/393329.ts
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: 4SEVEN" tvg-logo="http://static.epgguide.net/icon/4seven.uk.png" group-title="UK ENTERTAINMENT",UK: 4SEVEN
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290369.ts
+#EXTINF:-1 tvg-id="5action.uk" tvg-name="UK: 5 ACTION" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1053.1641764806.png" group-title="UK ENTERTAINMENT",UK: 5 ACTION
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/405863.ts
+#EXTINF:-1 tvg-id="5action.uk" tvg-name="UK: 5ACTION" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1053.1641764806.png" group-title="UK ENTERTAINMENT",UK: 5ACTION
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290416.ts
+#EXTINF:-1 tvg-id="5select.uk" tvg-name="UK: 5SELECT" tvg-logo="http://beatsworking.fyi:80/images/6e78773dfa42b0ddd1f1a40f35bea3d6.png" group-title="UK ENTERTAINMENT",UK: 5SELECT
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323859.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK: 5STAR" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/5-star-uk.png" group-title="UK ENTERTAINMENT",UK: 5STAR
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323860.ts
+#EXTINF:-1 tvg-id="5starplus1.uk" tvg-name="UK: 5STAR+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/5-star-plus-uk.png" group-title="UK ENTERTAINMENT",UK: 5STAR+1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323861.ts
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK: 5USA" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/5-usa-uk.png" group-title="UK ENTERTAINMENT",UK: 5USA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323862.ts
+#EXTINF:-1 tvg-id="fiveusaplus1.uk" tvg-name="UK: 5USA +1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-plus-1-uk.png" group-title="UK ENTERTAINMENT",UK: 5USA +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323863.ts
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK: AL JAZEERA" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="UK ENTERTAINMENT",UK: AL JAZEERA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290370.ts
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK: ALIBI" tvg-logo="http://static.epgguide.net/icon/alibi.uk.png" group-title="UK ENTERTAINMENT",UK: ALIBI
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290371.ts
+#EXTINF:-1 tvg-id="alibiplus1.uk" tvg-name="UK: ALIBI+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/alibi-plus-uk.png" group-title="UK ENTERTAINMENT",UK: ALIBI+1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323864.ts
+#EXTINF:-1 tvg-id="amc.uk" tvg-name="UK: AMC" tvg-logo="http://Offthewall.store:80/images/69ad7b6ac8dc375d8b55afb665f7a466.png" group-title="UK ENTERTAINMENT",UK: AMC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290988.ts
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC NEWS" tvg-logo="http://pluspng.com/img-png/bbc-news-png--1499.png" group-title="UK ENTERTAINMENT",UK: BBC NEWS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290375.ts
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC NEWS SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-news-uk.png" group-title="UK ENTERTAINMENT",UK: BBC NEWS SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323870.ts
+#EXTINF:-1 tvg-id="bbceaste.uk" tvg-name="UK: BBC ONE" tvg-logo="http://1.bp.blogspot.com/-7MiVwEaHn4Q/UnoUB7FuuEI/AAAAAAAAAC0/4cmcqsCjYKo/s1600/bbc-one_2.png" group-title="UK ENTERTAINMENT",UK: BBC ONE
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290373.ts
+#EXTINF:-1 tvg-id="bbceastmidlands.uk" tvg-name="UK: BBC ONE EAST MIDLANDS" tvg-logo="https://Offthewall.store:443/images/eb7b4f4f57bb83a73944daf1ff74a242.png" group-title="UK ENTERTAINMENT",UK: BBC ONE EAST MIDLANDS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324019.ts
+#EXTINF:-1 tvg-id="bbconelondon.uk" tvg-name="UK: BBC ONE LONDON" tvg-logo="http://beatsworking.fyi:80/images/a5ab89715abf9818181736bf13f32a63.png" group-title="UK ENTERTAINMENT",UK: BBC ONE LONDON
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324021.ts
+#EXTINF:-1 tvg-id="BBC1NE" tvg-name="UK: BBC ONE NORTH EAST & CENTRAL" tvg-logo="http://beatsworking.fyi:80/images/4e65967a9daa87ee08dc33f3b42fb8bc.png" group-title="UK ENTERTAINMENT",UK: BBC ONE NORTH EAST & CENTRAL
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324023.ts
+#EXTINF:-1 tvg-id="bbcnorthwest.uk" tvg-name="UK: BBC ONE NORTH WEST" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-one-north-west-hz-uk.png" group-title="UK ENTERTAINMENT",UK: BBC ONE NORTH WEST
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324024.ts
+#EXTINF:-1 tvg-id="bbcsouth.uk" tvg-name="UK: BBC ONE SOUTH" tvg-logo="http://pngimg.com/uploads/england/england_PNG1.png" group-title="UK ENTERTAINMENT",UK: BBC ONE SOUTH
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324027.ts
+#EXTINF:-1 tvg-id="bbcsouth.uk" tvg-name="UK: BBC ONE SOUTH EAST" tvg-logo="http://pngimg.com/uploads/england/england_PNG1.png" group-title="UK ENTERTAINMENT",UK: BBC ONE SOUTH EAST
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324026.ts
+#EXTINF:-1 tvg-id="bbcsouth.uk" tvg-name="UK: BBC ONE SOUTH WEST" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-one-south-west-hz-uk.png" group-title="UK ENTERTAINMENT",UK: BBC ONE SOUTH WEST
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324028.ts
+#EXTINF:-1 tvg-id="bbc1wales.uk" tvg-name="UK: BBC ONE WALES" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-one-wales-hz-uk.png" group-title="UK ENTERTAINMENT",UK: BBC ONE WALES
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324029.ts
+#EXTINF:-1 tvg-id="bbcwestmidlans.uk" tvg-name="UK: BBC ONE WEST MIDLANDS" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-one-west-hz-uk.png" group-title="UK ENTERTAINMENT",UK: BBC ONE WEST MIDLANDS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324030.ts
+#EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="UK: BBC PARLIAMENT" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/bbc-parliament-uk.png" group-title="UK ENTERTAINMENT",UK: BBC PARLIAMENT
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323872.ts
+#EXTINF:-1 tvg-id="bbcscotland.uk" tvg-name="UK: BBC SCOTLAND" tvg-logo="http://img3.wikia.nocookie.net/__cb20140131143448/logopedia/images/thumb/e/e9/BBC_Scotland.svg/250px-BBC_Scotland.svg.png" group-title="UK ENTERTAINMENT",UK: BBC SCOTLAND
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290376.ts
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC TWO" tvg-logo="http://img4.wikia.nocookie.net/__cb20100918134247/logopedia/images/thumb/7/73/BBC2_logo_1991.svg/226px-BBC2_logo_1991.svg.png" group-title="UK ENTERTAINMENT",UK: BBC TWO
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290374.ts
+#EXTINF:-1 tvg-id="bbc2wales.uk" tvg-name="UK: BBC TWO WALES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/BBC_Two_Wales_logo.svg/1200px-BBC_Two_Wales_logo.svg.png" group-title="UK ENTERTAINMENT",UK: BBC TWO WALES
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324033.ts
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK: BLAZE" tvg-logo="https://www.history.co.uk/themes/custom/sky_history/images/blaze-footer.png" group-title="UK ENTERTAINMENT",UK: BLAZE
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290377.ts
+#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK: BLOOMBERG" tvg-logo="https://i.ibb.co/xfH39xP/bloomberg.png" group-title="UK ENTERTAINMENT",UK: BLOOMBERG
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290378.ts
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK: CBS REALITY" tvg-logo="http://beatsworking.fyi:80/images/2178181b13ef9e19dc83638312dfd451.png" group-title="UK ENTERTAINMENT",UK: CBS REALITY
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290380.ts
+#EXTINF:-1 tvg-id="cbsrealityplus1.uk" tvg-name="UK: CBS REALITY+1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/CBS_Reality_logo.png" group-title="UK ENTERTAINMENT",UK: CBS REALITY+1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290381.ts
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: CHANNEL 4" tvg-logo="http://static.epgguide.net/icon/channel4.uk.png" group-title="UK ENTERTAINMENT",UK: CHANNEL 4
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290382.ts
+#EXTINF:-1 tvg-id="channel4plus1.uk" tvg-name="UK: CHANNEL 4 +1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-4-plus-1-uk.png" group-title="UK ENTERTAINMENT",UK: CHANNEL 4 +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323888.ts
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK: CHANNEL 5" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/channel-5-uk.png" group-title="UK ENTERTAINMENT",UK: CHANNEL 5
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290383.ts
+#EXTINF:-1 tvg-id="channel5plus1.uk" tvg-name="UK: Channel 5 +1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-5-plus-1-uk.png" group-title="UK ENTERTAINMENT",UK: Channel 5 +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323890.ts
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK: CHANNEL 5 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-5-uk.png" group-title="UK ENTERTAINMENT",UK: CHANNEL 5 SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323891.ts
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="UK: CLUBLAND TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/clubland_tv_uk.png" group-title="UK ENTERTAINMENT",UK: CLUBLAND TV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323893.ts
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK: CNN UK" tvg-logo="http://assets.stickpng.com/thumbs/5842ab75a6515b1e0ad75b0b.png" group-title="UK ENTERTAINMENT",UK: CNN UK
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290384.ts
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK: COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/comedy-central-uk.png" group-title="UK ENTERTAINMENT",UK: COMEDY CENTRAL
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290386.ts
+#EXTINF:-1 tvg-id="comedycentralplus1.uk" tvg-name="UK: COMEDY CENTRAL +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/comedy-central-plus-icon-uk.png" group-title="UK ENTERTAINMENT",UK: COMEDY CENTRAL +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323896.ts
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK: DAVE" tvg-logo="http://static.epgguide.net/icon/dave.uk.png" group-title="UK ENTERTAINMENT",UK: DAVE
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290389.ts
+#EXTINF:-1 tvg-id="davejavu.uk" tvg-name="UK: DAVE JA VU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Dave_ja_vu.png" group-title="UK ENTERTAINMENT",UK: DAVE JA VU
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290390.ts
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="UK: E!" tvg-logo="http://static.epgguide.net/icon/eentertainment.uk.png" group-title="UK ENTERTAINMENT",UK: E!
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290393.ts
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK: E4" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/e-4-uk.png" group-title="UK ENTERTAINMENT",UK: E4
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290394.ts
+#EXTINF:-1 tvg-id="e4plus1.uk" tvg-name="UK: E4 +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/e-4-plus-uk.png" group-title="UK ENTERTAINMENT",UK: E4 +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323916.ts
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK: EURONEWS" tvg-logo="https://stvron.com/canale/512/euronews.png" group-title="UK ENTERTAINMENT",UK: EURONEWS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290396.ts
+#EXTINF:-1 tvg-id="nodetails" tvg-name="UK: FORCES TV" tvg-logo="http://beatsworking.fyi:80/images/3ad138eb0d65cefdd9fec3c86749c7b5.png" group-title="UK ENTERTAINMENT",UK: FORCES TV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323923.ts
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK: GOLD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/gold-uk.png" group-title="UK ENTERTAINMENT",UK: GOLD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290398.ts
+#EXTINF:-1 tvg-id="goldplus1.uk" tvg-name="UK: GOLD +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/gold-plus-uk.png" group-title="UK ENTERTAINMENT",UK: GOLD +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323924.ts
+#EXTINF:-1 tvg-id="horrorxtra.uk" tvg-name="UK: HORROR CHANNEL" tvg-logo="http://pngimg.com/uploads/england/england_PNG1.png" group-title="UK ENTERTAINMENT",UK: HORROR CHANNEL
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324058.ts
+#EXTINF:-1 tvg-id="itv1angliaplus1.uk" tvg-name="UK: ITV +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-plus-uk.png" group-title="UK ENTERTAINMENT",UK: ITV +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323932.ts
+#EXTINF:-1 tvg-id="itv1.uk" tvg-name="UK: ITV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-uk.png" group-title="UK ENTERTAINMENT",UK: ITV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290402.ts
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: ITV 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-2-uk.png" group-title="UK ENTERTAINMENT",UK: ITV 2
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290403.ts
+#EXTINF:-1 tvg-id="itv2plus1.uk" tvg-name="UK: ITV 2 +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-2-plus-uk.png" group-title="UK ENTERTAINMENT",UK: ITV 2 +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323934.ts
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK: ITV 3" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-3-uk.png" group-title="UK ENTERTAINMENT",UK: ITV 3
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290404.ts
+#EXTINF:-1 tvg-id="itv3plus1.uk" tvg-name="UK: ITV 3 +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-3-plus-uk.png" group-title="UK ENTERTAINMENT",UK: ITV 3 +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323936.ts
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: ITV 4" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-4-uk.png" group-title="UK ENTERTAINMENT",UK: ITV 4
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290405.ts
+#EXTINF:-1 tvg-id="itv4plus1.uk" tvg-name="UK: ITV 4+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/itv-4-plus-uk.png" group-title="UK ENTERTAINMENT",UK: ITV 4+1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323939.ts
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK: ITV BE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/itv-be-uk.png" group-title="UK ENTERTAINMENT",UK: ITV BE
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290406.ts
+#EXTINF:-1 tvg-id="itvgranada.uk" tvg-name="UK: ITV GRANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/ITV_Granada_2013.svg/150px-ITV_Granada_2013.svg.png" group-title="UK ENTERTAINMENT",UK: ITV GRANADA
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324050.ts
+#EXTINF:-1 tvg-id="itvlondon.uk" tvg-name="UK: ITV LONDON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/ITV_London_2013.svg/150px-ITV_London_2013.svg.png" group-title="UK ENTERTAINMENT",UK: ITV LONDON
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324051.ts
+#EXTINF:-1 tvg-id="itvtynetees.uk" tvg-name="UK: ITV TYNE TEES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/ITV_Granada_2013.svg/150px-ITV_Granada_2013.svg.png" group-title="UK ENTERTAINMENT",UK: ITV TYNE TEES
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324045.ts
+#EXTINF:-1 tvg-id="itvwales.uk" tvg-name="UK: ITV WALES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/ITV_Channel_TV_logo_%282013_-_%29.png/150px-ITV_Channel_TV_logo_%282013_-_%29.png" group-title="UK ENTERTAINMENT",UK: ITV WALES
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324049.ts
+#EXTINF:-1 tvg-id="itvyorkshire.uk" tvg-name="UK: ITV YORKSHIRE EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ITV_Meridian_2013.svg/150px-ITV_Meridian_2013.svg.png" group-title="UK ENTERTAINMENT",UK: ITV YORKSHIRE EAST
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324046.ts
+#EXTINF:-1 tvg-id="more4plus1.uk" tvg-name="UK: MORE 4+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/4-more-plus-uk.png" group-title="UK ENTERTAINMENT",UK: MORE 4+1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323947.ts
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK: MORE4" tvg-logo="https://pbs.twimg.com/profile_images/1817366974/160px-More4_logo.svg_400x400.png" group-title="UK ENTERTAINMENT",UK: MORE4
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290411.ts
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK: MTV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/mtv-uk.png" group-title="UK ENTERTAINMENT",UK: MTV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290412.ts
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="UK: MTV BASE" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/mtv-base-uk.png" group-title="UK ENTERTAINMENT",UK: MTV BASE
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323950.ts
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="UK: MTV CLASSIC" tvg-logo="https://Offthewall.store:443/images/0f8ae77cefa621fdd86b342c82d5b8f5.png" group-title="UK ENTERTAINMENT",UK: MTV CLASSIC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323951.ts
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK: MTV HITS" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/mtv-hits-uk.png" group-title="UK ENTERTAINMENT",UK: MTV HITS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323952.ts
+#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="UK: MTV MUSIC" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/mtv-uk.png" group-title="UK ENTERTAINMENT",UK: MTV MUSIC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323953.ts
+#EXTINF:-1 tvg-id="picktv.uk" tvg-name="UK: PICK" tvg-logo="http://static.epgguide.net/icon/picktv.uk.png" group-title="UK ENTERTAINMENT",UK: PICK
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290417.ts
+#EXTINF:-1 tvg-id="picktvplus1.uk" tvg-name="UK: PICK +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/pick-plus-uk.png" group-title="UK ENTERTAINMENT",UK: PICK +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323965.ts
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK: QUEST" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/quest-uk.png" group-title="UK ENTERTAINMENT",UK: QUEST
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290418.ts
+#EXTINF:-1 tvg-id="questred.uk" tvg-name="UK: QUEST RED" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/quest-red-uk.png" group-title="UK ENTERTAINMENT",UK: QUEST RED
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323972.ts
+#EXTINF:-1 tvg-id="questredplus1.uk" tvg-name="UK: QUEST RED +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/quest-red-plus-uk.png" group-title="UK ENTERTAINMENT",UK: QUEST RED +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323971.ts
+#EXTINF:-1 tvg-id="questplus1.uk" tvg-name="UK: QUEST+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/quest-plus-uk.png" group-title="UK ENTERTAINMENT",UK: QUEST+1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323974.ts
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK: S4C" tvg-logo="http://static.epgguide.net/icon/s4c.uk.png" group-title="UK ENTERTAINMENT",UK: S4C
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290420.ts
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="UK: SONY TV" tvg-logo="http://www.worldtvpc.com/blog/wp-content/uploads/2014/12/Sony-Is-Planning-First-Internet-based-Cable-TV-Service.png" group-title="UK ENTERTAINMENT",UK: SONY TV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290431.ts
+#EXTINF:-1 tvg-id="STVCentral.uk" tvg-name="UK: STV CENTRAL EAST" tvg-logo="http://beatsworking.fyi:80/images/50e8e0500103f31e2044c7fbf11a32b2.png" group-title="UK ENTERTAINMENT",UK: STV CENTRAL EAST
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/74794.ts
+#EXTINF:-1 tvg-id="STVCentral.uk" tvg-name="UK: STV CENTRAL WEST" tvg-logo="http://beatsworking.fyi:80/images/4340b32270cee00eb191bdf551c23e19.png" group-title="UK ENTERTAINMENT",UK: STV CENTRAL WEST
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324052.ts
+#EXTINF:-1 tvg-id="STVNorth.uk" tvg-name="UK: STV NORTH" tvg-logo="http://beatsworking.fyi:80/images/50e8e0500103f31e2044c7fbf11a32b2.png" group-title="UK ENTERTAINMENT",UK: STV NORTH
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324054.ts
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="UK: SYFY" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/syfy-uk.png" group-title="UK ENTERTAINMENT",UK: SYFY
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290432.ts
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK: TLC" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/tlc-uk.png" group-title="UK ENTERTAINMENT",UK: TLC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290434.ts
+#EXTINF:-1 tvg-id="together.uk" tvg-name="UK: TOGETHER" tvg-logo="https://pbs.twimg.com/profile_images/1478334487226372097/L78VXebm.png" group-title="UK ENTERTAINMENT",UK: TOGETHER
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324006.ts
+#EXTINF:-1 tvg-id="w.uk" tvg-name="UK: WATCH" tvg-logo="http://upload.wikimedia.org/wikipedia/en/a/a7/Watch_logo_2012.png" group-title="UK ENTERTAINMENT",UK: WATCH
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290436.ts
+#EXTINF:-1 tvg-id="wplus1.uk" tvg-name="UK: WATCH +1" tvg-logo="https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2016/01/18165701/W-Hero-Logo-UKTV.jpg" group-title="UK ENTERTAINMENT",UK: WATCH +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324011.ts
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="UK: YESTERDAY" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/yesterday-uk.png" group-title="UK ENTERTAINMENT",UK: YESTERDAY
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324014.ts
+#EXTINF:-1 tvg-id="yesterdayplus1.uk" tvg-name="UK: YESTERDAY +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/yesterday-plus-uk.png" group-title="UK ENTERTAINMENT",UK: YESTERDAY +1
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324013.ts
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK: SKY ARTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-arts-uk.png" group-title="UK ENTERTAINMENT",UK: SKY ARTS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290421.ts
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK: SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-atlantic-uk.png" group-title="UK ENTERTAINMENT",UK: SKY ATLANTIC
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290422.ts
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK: SKY CRIME" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-crime-uk.png" group-title="UK ENTERTAINMENT",UK: SKY CRIME
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290423.ts
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: SKY NEWS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-news-uk.png" group-title="UK ENTERTAINMENT",UK: SKY NEWS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290426.ts
+#EXTINF:-1 tvg-id="skyshowcase.uk" tvg-name="UK: SKY SHOWCASE" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-one-uk.png" group-title="UK ENTERTAINMENT",UK: SKY SHOWCASE
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290427.ts
+#EXTINF:-1 tvg-id="skymax.uk" tvg-name="UK: SKY MAX" tvg-logo="http://static.epgguide.net/icon/sky2.uk.png" group-title="UK ENTERTAINMENT",UK: SKY MAX
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290428.ts
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK: SKY WITNESS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/sky-witness-uk.png" group-title="UK ENTERTAINMENT",UK: SKY WITNESS
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/290429.ts
+#EXTINF:-1 tvg-id="skyarts.uk" tvg-name="UK: SKY ARTS SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-arts-uk.png" group-title="UK ENTERTAINMENT",UK: SKY ARTS SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323983.ts
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK: SKY COMEDY SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-comedy-icon-uk.png" group-title="UK ENTERTAINMENT",UK: SKY COMEDY SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323986.ts
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: SKY NEWS SD" tvg-logo="http://beatsworking.fyi:80/images/d4c82a2d227934652455f6d0d424217b.png" group-title="UK ENTERTAINMENT",UK: SKY NEWS SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323994.ts
+#EXTINF:-1 tvg-id="skywitness.uk" tvg-name="UK: SKY WITNESS SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/sky-witness-uk.png" group-title="UK ENTERTAINMENT",UK: SKY WITNESS SD
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/323997.ts
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK: STV" tvg-logo="http://beatsworking.fyi:80/images/50e8e0500103f31e2044c7fbf11a32b2.png" group-title="UK ENTERTAINMENT",UK: STV
+http://vods.ca:80/2n4cFA9yZU/gsWeTx5QdZ/324055.ts
